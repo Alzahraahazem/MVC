@@ -1,0 +1,14 @@
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.deps.json
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\bin\Debug\net9.0\GymManagementDAL.pdb
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.AssemblyReference.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\refint\GymManagementDAL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.pdb
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\GymManagementDAL.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementDAL\obj\Debug\net9.0\ref\GymManagementDAL.dll

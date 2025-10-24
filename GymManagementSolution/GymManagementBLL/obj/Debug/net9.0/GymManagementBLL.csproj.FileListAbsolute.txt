@@ -1,0 +1,17 @@
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.deps.json
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementBLL.pdb
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\bin\Debug\net9.0\GymManagementDAL.pdb
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.AssemblyReference.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManag.CEDF2700.Up2Date
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\refint\GymManagementBLL.dll
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.pdb
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\GymManagementBLL.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\MVC\GymManagementSolution\GymManagementBLL\obj\Debug\net9.0\ref\GymManagementBLL.dll

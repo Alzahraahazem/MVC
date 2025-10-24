@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\account\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\webapplication01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\webapplication01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|c:\\users\\ascom\\downloads\\routeacademy_-mvc\\routeacademy_-mvc\\mvcsession01\\webapplication01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{603B0175-DAD1-4BBB-BDFE-AFE4E52F7A24}|WebApplication01\\WebApplication01.csproj|solutionrelative:webapplication01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:14:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Account\\SignIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:09:23.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T17:01:14.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:59:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:50:14.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:48:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T16:44:09.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T15:32:12.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T15:27:07.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T22:14:57.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WebApplication01.csproj",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
+              "RelativeDocumentMoniker": "WebApplication01\\WebApplication01.csproj",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\WebApplication01.csproj",
+              "RelativeToolTip": "WebApplication01\\WebApplication01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T22:06:44.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T22:05:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:59:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Models\\Movie.cs",
+              "RelativeToolTip": "WebApplication01\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:09:13.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "WebApplication01\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:22:46.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication01\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\Downloads\\RouteAcademy_-MVC\\RouteAcademy_-MVC\\MVCSession01\\WebApplication01\\Program.cs",
+              "RelativeToolTip": "WebApplication01\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:01:54.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
