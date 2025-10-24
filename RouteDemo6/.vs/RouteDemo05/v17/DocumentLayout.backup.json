@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\data\\migrations\\20251015021813_adddepartmentemployeerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251015021813_adddepartmentemployeerelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\employeeconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\employeemodel\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.dal\\models\\departmentmodel\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356BF985-D993-4771-AB9F-B2205C1285AC}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\departmentmodel\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F207BFDB-6E54-418D-85B5-F321E140FF45}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.bll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F207BFDB-6E54-418D-85B5-F321E140FF45}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.pl\\viewmodels\\departmentviewmodel\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\departmentviewmodel\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.pl\\viewmodels\\departmentviewmodel\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\departmentviewmodel\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F207BFDB-6E54-418D-85B5-F321E140FF45}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.bll\\dtos\\departmentdtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F207BFDB-6E54-418D-85B5-F321E140FF45}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.pl\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\departments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|c:\\users\\ascom\\source\\repos\\company_system_v1\\mvc.demo05\\routedemo05\\demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9DD3174-2E51-4E73-922A-EF629BE00C7D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251015021813_AddDepartmentEmployeeRelation.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Migrations\\20251015021813_AddDepartmentEmployeeRelation.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251015021813_AddDepartmentEmployeeRelation.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Migrations\\20251015021813_AddDepartmentEmployeeRelation.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251015021813_AddDepartmentEmployeeRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:18:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:12:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:08:51.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\EmployeeConfigurations.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:06:15.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\EmployeeModel\\Employee.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:02:17.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\DepartmentModel\\Department.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T02:01:01.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentFactory.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentFactory.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentFactory.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentFactory.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:50:40.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatedDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.BLL\\DTOs\\DepartmentDTOs\\CreatedDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDTOs\\CreatedDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.BLL\\DTOs\\DepartmentDTOs\\CreatedDepartmentDTO.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDTOs\\CreatedDepartmentDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:44:39.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:39:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADgv0YAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:38:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Views\\Departments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Departments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Views\\Departments\\Edit.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Departments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T23:38:45.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T23:38:38.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\Company_System_V1\\MVC.Demo05\\RouteDemo05\\Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\DepartmentViewModel\\DepartmentViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T23:37:32.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
